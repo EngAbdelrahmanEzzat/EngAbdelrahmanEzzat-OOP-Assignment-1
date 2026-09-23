@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Part3_BuilderPattern
 {
-    internal class Program
+    internal class OrderInfo
     {
     }
 }
