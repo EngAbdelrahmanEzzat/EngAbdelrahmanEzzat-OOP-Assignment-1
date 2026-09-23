@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Part1_ProceduralToOOP/">
+    <Project Path="Part1_ProceduralToOOP/src/Part1_ProceduralToOOP.csproj" />
+  </Folder>
+  <Folder Name="/Part2_HotelReservationSystem/">
+    <Project Path="Part2_HotelReservationSystem/src/Part2_HotelReservationSystem.csproj" />
+  </Folder>
+  <Folder Name="/Part3_BuilderPattern/">
+    <Project Path="Part3_BuilderPattern/src/Part3_BuilderPattern.csproj" />
+  </Folder>
+</Solution>
